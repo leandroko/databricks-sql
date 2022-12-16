@@ -1,3 +1,3 @@
 # databricks-sql
 
-Novo Readme
+Repo used for learning about databricks technology through teomewhy classes
